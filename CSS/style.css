@@ -504,6 +504,7 @@ header a {
   background: #fff;
   border-radius: 0.2857rem;
   border: 1px solid #e7e7e7;
+  line-height: 40px;
 }
 
 .locality-list-wrapper {
